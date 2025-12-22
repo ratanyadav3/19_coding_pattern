@@ -1,6 +1,6 @@
 # 🚀 101 Coding Interview Patterns
 
-his repository contains my personal solutions to the **101 Essential Coding Interview Problems** categorized by patterns, as featured in the [ByteByteGo Coding Interview Patterns](https://github.com/ByteByteGoHq/coding-interview-patterns) curriculum.
+This repository contains my personal solutions to the **101 Essential Coding Interview Problems** categorized by patterns, as featured in the [ByteByteGo Coding Interview Patterns](https://github.com/ByteByteGoHq/coding-interview-patterns) curriculum.
 
 The goal is to move beyond memorizing solutions and instead master the underlying patterns that solve entire classes of problems.
 
@@ -9,7 +9,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:** 0 / 101 
+- **Completed:** 1 / 101 
 - **Current Pattern:** Chapter 1: Two Pointers
 
 ---
@@ -30,7 +30,7 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 ## 📚 Table of Contents (by pattern)
 
 ### 1. Two Pointers
-- [ ] Pair Sum (Sorted)
+- [x] Pair Sum (Sorted)
 - [ ] Triplet Sum to Zero
 - [ ] Valid Palindrome
 - [ ] Container With Most Water
@@ -124,5 +124,10 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 - [ ] Number of 1 Bits
 - [ ] Counting Bits
 - [ ] Single Number
+
+
+
+
+#                 “Don’t just solve the problem, master the pattern.”
 
 ---
