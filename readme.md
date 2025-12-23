@@ -9,7 +9,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:** 1 / 101 
+- **Completed:** 5 / 101 
 - **Current Pattern:** Chapter 1: Two Pointers
 
 ---
@@ -31,10 +31,10 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 
 ### 1. Two Pointers
 - [x] Pair Sum (Sorted)
-- [ ] Triplet Sum to Zero
-- [ ] Valid Palindrome
-- [ ] Container With Most Water
-- [ ] Move Zeroes
+- [x] Triplet Sum to Zero
+- [x] Valid Palindrome
+- [x] Container With Most Water
+- [x] Move Zeroes
 - [ ] Next Permutation
 
 ### 2. Hash Maps & Sets

@@ -1,0 +1,15 @@
+# Compiled Binaries
+*.exe
+*.o
+*.out
+app
+solution
+
+# IDE folders
+.vscode/
+.idea/
+cmake-build-debug/
+
+# OS files
+.DS_Store
+Thumbs.db
