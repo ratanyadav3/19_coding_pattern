@@ -10,7 +10,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 
 - **Total Problems:** 101
 - **Completed:** 6 / 101 
-- **Current Pattern:** Chapter 1: Two Pointers
+- **Current Pattern:** Chapter 2: Hash Map and Sets
 
 ---
 
@@ -38,7 +38,7 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 - [x] Next Permutation
 
 ### 2. Hash Maps & Sets
-- [ ] Two Sum (Unsorted)
+- [x] Two Sum (Unsorted)
 - [ ] Valid Sudoku
 - [ ] Set Matrix Zeroes
 - [ ] Longest Consecutive Sequence
