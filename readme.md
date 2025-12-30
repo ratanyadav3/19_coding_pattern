@@ -9,7 +9,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:** 9 / 101 
+- **Completed:**  10 / 101 
 - **Current Pattern:** Chapter 2: Hash Map and Sets
 
 ---
@@ -39,7 +39,7 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 
 ### 2. Hash Maps & Sets
 - [x] Two Sum (Unsorted)
-- [ ] Valid Sudoku
+- [x] Valid Sudoku
 - [x] Set Matrix Zeroes
 - [x] Longest Consecutive Sequence
 - [ ] Subarray Sum Equals K
