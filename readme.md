@@ -9,7 +9,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:**  11 / 101 
+- **Completed:**  14 / 101 
 - **Current Pattern:** Chapter 2: Hash Map and Sets
 
 ---
@@ -45,9 +45,9 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 - [x] Geometric Sequence Triplet
 
 ### 3. Linked Lists
-- [ ] Reverse Linked List
-- [ ] Remove N-th Node From End
-- [ ] Intersection of Two Linked Lists
+- [x] Reverse Linked List
+- [x] Remove N-th Node From End
+- [x] Intersection of Two Linked Lists
 - [ ] LRU Cache
 - [ ] Palindrome Linked List
 - [ ] Flatten a Multilevel Doubly Linked List
