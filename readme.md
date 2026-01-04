@@ -9,7 +9,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:**  14 / 101 
+- **Completed:**  17 / 101 
 - **Current Pattern:** Chapter 2: Hash Map and Sets
 
 ---
@@ -48,9 +48,9 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 - [x] Reverse Linked List
 - [x] Remove N-th Node From End
 - [x] Intersection of Two Linked Lists
-- [ ] LRU Cache
-- [ ] Palindrome Linked List
-- [ ] Flatten a Multilevel Doubly Linked List
+- [x] LRU Cache
+- [x] Palindrome Linked List
+- [x] Flatten a Multilevel Doubly Linked List
 
 ### 4. Fast & Slow Pointers
 - [ ] Linked List Cycle
