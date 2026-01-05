@@ -9,7 +9,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:**  17 / 101 
+- **Completed:**  20 / 101 
 - **Current Pattern:** Chapter 2: Hash Map and Sets
 
 ---
@@ -53,9 +53,9 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 - [x] Flatten a Multilevel Doubly Linked List
 
 ### 4. Fast & Slow Pointers
-- [ ] Linked List Cycle
-- [ ] Middle of the Linked List
-- [ ] Happy Number
+- [x] Linked List Cycle
+- [x] Middle of the Linked List
+- [x] Happy Number
 
 ### 5. Sliding Windows
 - [ ] Find All Anagrams in a String
