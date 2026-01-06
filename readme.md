@@ -9,8 +9,8 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:**  20 / 101 
-- **Current Pattern:** Chapter 2: Hash Map and Sets
+- **Completed:**  22 / 101 
+- **Current Pattern:** Chapter 5: Sliding window
 
 ---
 
@@ -58,8 +58,8 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 - [x] Happy Number
 
 ### 5. Sliding Windows
-- [ ] Find All Anagrams in a String
-- [ ] Longest Substring Without Repeating Characters
+- [x] Find All Anagrams in a String
+- [x] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 
 ### 6. Binary Search
