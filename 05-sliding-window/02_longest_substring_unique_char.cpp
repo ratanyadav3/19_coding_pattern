@@ -1,4 +1,5 @@
-
+//problem statement: Given a string s, find the length of the longest substring without repeating characters.
+//problem link: https://leetcode.com/problems/longest-substring-without-repeating-characters/ , https://bytebytego.com/exercises/coding-patterns/sliding-window/longest-substring-without-repeating-characters
 
 #include<bits/stdc++.h>
 using namespace std;

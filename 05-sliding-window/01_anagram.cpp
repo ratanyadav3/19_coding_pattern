@@ -1,4 +1,5 @@
-
+//problem statement: Given two strings s and p, find all the start indices of p's anagrams in s.
+//problem link: https://leetcode.com/problems/find-all-anagrams-in-a-string/ , https://bytebytego.com/exercises/coding-patterns/sliding-window/find-all-anagrams-in-a-string
 
 #include<bits/stdc++.h>
 using namespace std;
