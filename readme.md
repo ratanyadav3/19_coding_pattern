@@ -9,7 +9,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:**  23 / 101 
+- **Completed:**  25 / 101 
 - **Current Pattern:** Chapter 6: Binary Search
 
 ---
@@ -63,8 +63,8 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 - [x] Longest Repeating Character Replacement
 
 ### 6. Binary Search
-- [ ] Search Insert Position
-- [ ] Find First and Last Position in Sorted Array
+- [x] Search Insert Position
+- [x] Find First and Last Position in Sorted Array
 - [ ] Wood Cutting Problem
 - [ ] Search in Rotated Sorted Array
 - [ ] Median of Two Sorted Arrays
