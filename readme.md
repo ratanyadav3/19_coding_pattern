@@ -9,7 +9,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:**  25 / 101 
+- **Completed:**  27 / 101 
 - **Current Pattern:** Chapter 6: Binary Search
 
 ---
@@ -68,7 +68,9 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 - [ ] Wood Cutting Problem
 - [ ] Search in Rotated Sorted Array
 - [ ] Median of Two Sorted Arrays
-- [ ] Search a 2D Matrix
+- [x] Search a 2D Matrix
+- [x] Local Maxima in Array
+- [ ] Weighted Random Selection
 
 ### 7. Stacks
 - [ ] Valid Parentheses
