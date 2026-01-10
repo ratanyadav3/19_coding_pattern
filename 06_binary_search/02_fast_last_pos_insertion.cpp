@@ -1,3 +1,9 @@
+// Find First and Last Position of Element in Sorted Array
+// example: nums = [5,7,7,8,8,10], target = 8 -> output = [3,4]
+
+
+//problem link: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ , https://bytebytego.com/exercises/coding-patterns/binary-search/first-and-last-occurrences-of-a-number
+
 #include<bits/stdc++.h>
 using namespace std;
 

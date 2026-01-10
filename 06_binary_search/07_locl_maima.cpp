@@ -1,3 +1,8 @@
+//problem Statement: Given an array, find a local maxima in it. An array element is a local maxima if it is NOT smaller than its neighbors.
+// example: arr = [1,3,20,4,1,0,5] -> output = 20 (index 2)
+// example: arr = [10,20,15,2,23,90,67] -> output = 20 (index 1)
+
+//link : https://www.geeksforgeeks.org/find-a-local-maxima-in-an-array/ , https://bytebytego.com/exercises/coding-patterns/binary-search/local-maxima-in-array
 #include<bits/stdc++.h>
 using namespace std;
 

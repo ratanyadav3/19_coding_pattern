@@ -1,3 +1,9 @@
+// Find Insertion Index of an element in a sorted array
+// example: arr = [1,3,5,6], target = 5 -> output = 2
+// example: arr = [1,3,5,6], target = 2 -> output = 1
+
+//problem link: https://leetcode.com/problems/search-insert-position/   , byte: https://bytebytego.com/exercises/coding-patterns/binary-search/find-the-insertion-index
+
 #include<bits/stdc++.h>
 using namespace std;
 
