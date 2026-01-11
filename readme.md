@@ -9,7 +9,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:**  29 / 101 
+- **Completed:**  30 / 101 
 - **Current Pattern:** Chapter 6: Binary Search
 
 ---
@@ -70,7 +70,7 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 - [x] Median of Two Sorted Arrays
 - [x] Search a 2D Matrix
 - [x] Local Maxima in Array
-- [ ] Weighted Random Selection
+- [x] Weighted Random Selection
 
 ### 7. Stacks
 - [ ] Valid Parentheses
