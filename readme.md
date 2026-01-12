@@ -9,7 +9,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:**  30 / 101 
+- **Completed:**  33 / 101 
 - **Current Pattern:** Chapter 6: Binary Search
 
 ---
@@ -73,8 +73,8 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 - [x] Weighted Random Selection
 
 ### 7. Stacks
-- [ ] Valid Parentheses
-- [ ] Next Greater Element
+- [x] Valid Parentheses
+- [x] Next Greater Element
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Implement Queue using Stacks
 
