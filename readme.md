@@ -9,7 +9,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:**  35 / 101 
+- **Completed:**  37 / 101 
 - **Current Pattern:** Chapter 6: Binary Search
 
 ---
@@ -80,9 +80,9 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 - [x] Maximums of Sliding Window
 
 ### 8. Heaps
-- [ ] Top K Frequent Elements
-- [ ] Merge k Sorted Lists
-- [ ] Find Median from Data Stream
+- [x] Top K Frequent Elements
+- [x] Merge k Sorted Lists
+- [x] Find Median from Data Stream
 
 ### 9. Intervals
 - [ ] Merge Intervals
