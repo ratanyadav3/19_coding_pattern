@@ -9,8 +9,8 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:**  37 / 101 
-- **Current Pattern:** Chapter 6: Binary Search
+- **Completed:**  38 / 101 
+- **Current Pattern:** Chapter 8: Heap 
 
 ---
 
@@ -83,6 +83,8 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 - [x] Top K Frequent Elements
 - [x] Merge k Sorted Lists
 - [x] Find Median from Data Stream
+- [x] Sort a K-Sorted Array
+
 
 ### 9. Intervals
 - [ ] Merge Intervals
