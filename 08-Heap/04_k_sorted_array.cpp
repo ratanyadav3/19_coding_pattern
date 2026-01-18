@@ -1,25 +1,37 @@
 #include<bits/stdc++.h>
 using namespace std; 
 
-vector<int>mergeKsortedArray(vector<int>&arr , int k)
-{
+class MedianFinder {
+private:
+
+    priority_queue<int> maxHeap;
+
     priority_queue<int, vector<int>, greater<int>> minHeap;
-    vector<int>res;
-    for(int i = 0; i<=k && i<arr.size(); i++)
-    {
-        minHeap.push(arr[i]);
-    }
-    for(int i = k+1; i<arr.size(); i++)
-    {
-        res.push_back(minHeap.top());
-        minHeap.pop();
-        minHeap.push(arr[i]);
+
+public:
+    MedianFinder() {
     }
 
-     while (!minHeap.empty()) {
-            res.push_back(minHeap.top());
+    void addNum(int num) {
+
+        maxHeap.push(num);
+
+        
+        minHeap.push(maxHeap.top());
+        maxHeap.pop();
+
+        if (minHeap.size() > maxHeap.size()) {
+            maxHeap.push(minHeap.top());
             minHeap.pop();
         }
+    }
 
-    return res;
-}
+    // Function to find the current median
+    double findMedian() {
+        if (maxHeap.size() == minHeap.size()) {
+            return (maxHeap.top() + minHeap.top()) / 2.0;
+        }
+
+        return maxHeap.top();
+    }
+};

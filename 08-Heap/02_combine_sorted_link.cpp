@@ -1,6 +1,4 @@
-//This is not optimal approach but a brute force approach to merge k sorted linked lists    
-//I will optimize it using priority queue in next code
-
+ 
 
 #include<bits/stdc++.h>
 using namespace std;
@@ -8,30 +6,44 @@ using namespace std;
 struct ListNode{
     int data;
     ListNode* next;
+
+    ListNode(int data)
+    {
+        this->data = data;
+        this->next = NULL;
+    }
 };
 
-ListNode* mergeList(vector<ListNode*>lists)
+
+
+//Optimal approach
+
+ListNode* mergeLinkList(vector<ListNode*>lists)
 {
-    ListNode* temp ;
-    vector<int>res;
-    for(int i =0; i<lists.size(); i++)
+    priority_queue<pair<int, ListNode*>,
+        vector<pair<int, ListNode*>>, greater<pair<int, ListNode*>>> pq;
+
+    for(int i = 0; i<lists.size(); i++)
     {
-        temp = lists[i];
-        while(temp!=NULL)
+        if(lists[i])
         {
-            res.push_back(temp->data);
-            temp = temp->next;
+            pq.push({lists[i]->data ,lists[i]});
         }
     }
-    sort(res.begin(), res.end());
-    ListNode* head = new ListNode();
+
+    ListNode* head = new ListNode(-1);
     ListNode* curr = head;
-    for(int i =0; i<res.size(); i++)
+    while(!pq.empty())
     {
-        ListNode* newListNode = new ListNode();
-        newListNode->data = res[i];
-        curr->next = newListNode;
-        curr = curr->next;  
+        auto it = pq.top();
+        pq.pop();
+        curr->next = it.second;
+        curr = curr->next;
+        if(it.second->next != NULL)
+        {
+            pq.push({it.second->next->data , it.second->next});
+        }
+
     }
-    return head->next;   
+    return head->next;
 }
