@@ -9,8 +9,8 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:**  38 / 101 
-- **Current Pattern:** Chapter 8: Heap 
+- **Completed:**  39 / 101 
+- **Current Pattern:** Chapter 9: Intervals 
 
 ---
 
