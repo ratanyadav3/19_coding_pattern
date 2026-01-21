@@ -9,7 +9,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:**  39 / 101 
+- **Completed:**  40 / 101 
 - **Current Pattern:** Chapter 9: Intervals 
 
 ---
@@ -87,9 +87,9 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 
 
 ### 9. Intervals
-- [ ] Merge Intervals
-- [ ] Insert Interval
-- [ ] Meeting Rooms II
+- [x] Merge Overlapping Intervals
+- [x] Identify All Interval Overlaps
+- [ ] Largest Overlap of Intervals
 
 ### 10. Prefix Sums
 - [ ] Range Sum Query (Immutable)
