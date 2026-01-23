@@ -10,7 +10,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 
 - **Total Problems:** 101
 - **Completed:**  41 / 101 
-- **Current Pattern:** Chapter 9: Intervals 
+- **Current Pattern:** Chapter 10: Prefix Sum
 
 ---
 
@@ -92,7 +92,7 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 - [x] Largest Overlap of Intervals
 
 ### 10. Prefix Sums
-- [ ] Range Sum Query (Immutable)
+- [x] Range Sum Query
 - [ ] Subarray Sums Divisible by K
 - [ ] Product of Array Except Self
 
