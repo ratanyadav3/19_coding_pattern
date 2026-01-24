@@ -9,7 +9,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:**  41 / 101 
+- **Completed:**  44 / 101 
 - **Current Pattern:** Chapter 10: Prefix Sum
 
 ---
@@ -93,8 +93,8 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 
 ### 10. Prefix Sums
 - [x] Range Sum Query
-- [ ] Subarray Sums Divisible by K
-- [ ] Product of Array Except Self
+- [x] K-Sum Subarray
+- [x] Product of Array Except Self
 
 ### 11. Binary Trees & Tries
 - [ ] Symmetric Tree
