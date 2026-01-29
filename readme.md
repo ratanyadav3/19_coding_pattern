@@ -9,7 +9,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:**  44 / 101 
+- **Completed:**  45 / 101 
 - **Current Pattern:** Chapter 10: Prefix Sum
 
 ---
@@ -75,7 +75,7 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 ### 7. Stacks
 - [x] Valid Parentheses
 - [x] Next Greater Element
-- [ ] Evaluate Reverse Polish Notation
+- [x] Evaluate Reverse Polish Notation
 - [x] Implement Queue using Stacks
 - [x] Maximums of Sliding Window
 
