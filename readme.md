@@ -9,8 +9,8 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:**  45 / 101 
-- **Current Pattern:** Chapter 10: Prefix Sum
+- **Completed:**  46 / 101 
+- **Current Pattern:** Chapter 11: Tree
 
 ---
 
@@ -96,8 +96,8 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 - [x] K-Sum Subarray
 - [x] Product of Array Except Self
 
-### 11. Binary Trees & Tries
-- [ ] Symmetric Tree
+### 11. Tree
+- [x] Invert Binary Tree
 - [ ] Serialize and Deserialize Binary Tree
 - [ ] Lowest Common Ancestor
 - [ ] Binary Tree Maximum Path Sum

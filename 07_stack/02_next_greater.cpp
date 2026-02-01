@@ -17,3 +17,4 @@ vector<int>NGE(vector<int>v)
     }
     return res;
 }
+
