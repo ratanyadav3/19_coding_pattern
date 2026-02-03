@@ -9,7 +9,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:**  47 / 101 
+- **Completed:**  48 / 101 
 - **Current Pattern:** Chapter 11: Tree
 
 ---
@@ -99,7 +99,7 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 ### 11. Tree
 - [x] Invert Binary Tree
 - [x] Check Balanced Binary tree
-- [ ] Lowest Common Ancestor
+- [x] RightMost Nodes Of a Binary Tree
 - [ ] Binary Tree Maximum Path Sum
 - [ ] Implement Trie (Prefix Tree)
 - [ ] Word Search II
