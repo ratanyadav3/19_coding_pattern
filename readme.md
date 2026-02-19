@@ -129,7 +129,8 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 - [ ] Number of 1 Bits
 - [ ] Counting Bits
 - [ ] Single Number
-
+### 18.Bit Manipulation
+- [x] Hamming Weight of Integer
 
 
 
