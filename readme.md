@@ -9,7 +9,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:**  48 / 101 
+- **Completed:**  51 / 101 
 - **Current Pattern:** Chapter 11: Tree
 
 ---
@@ -123,7 +123,7 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 - [ ] Edit Distance
 - [ ] Coin Change
 
-### 15. Greedy & Bit Manipulation
+### 15. Greedy 
 - [ ] Jump Game
 - [ ] Gas Station
 - [ ] Number of 1 Bits
@@ -131,7 +131,8 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 - [ ] Single Number
 ### 18.Bit Manipulation
 - [x] Hamming Weight of Integer
-
+- [x] Lonely Integer
+- [x] Swap odd Even Bits
 
 
 #                 “Don’t just solve the problem, master the pattern.”
