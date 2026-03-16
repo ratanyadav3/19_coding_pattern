@@ -9,7 +9,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:**  54 / 101 
+- **Completed:**  55 / 101 
 - **Current Pattern:** Chapter 11: Tree
 
 ---
@@ -103,6 +103,7 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 - [x] Widest Binary Tree Level
 - [x] Binary Search Tree Validation
 - [x] Lowest Common Ancestor in Binary Search Tree
+- [x] Build Binary Tree From Preorder and Inorder Traversals
 - [ ] Binary Tree Maximum Path Sum
 - [ ] Implement Trie (Prefix Tree)
 - [ ] Word Search II
