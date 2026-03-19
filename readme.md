@@ -9,7 +9,7 @@ The goal is to move beyond memorizing solutions and instead master the underlyin
 ## 📊 Progress Tracker
 
 - **Total Problems:** 101
-- **Completed:**  56 / 101 
+- **Completed:**  57 / 101 
 - **Current Pattern:** Chapter 11: Tree
 
 ---
@@ -106,6 +106,7 @@ Each folder corresponds to a specific pattern. Inside, you will find the problem
 - [x] Build Binary Tree From Preorder and Inorder Traversals
 - [ ] Binary Tree Maximum Path Sum
 - [x] Binary Tree Symmetry
+- [x] Maximum Sum of a Continuous Path in a Binary Tree
 - [ ] Implement Trie (Prefix Tree)
 - [ ] Word Search II
 
